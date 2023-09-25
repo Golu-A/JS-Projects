@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.canvas{
+    /* height: 50%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+    /* background-color: aqua; */
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+.btn{
+    height: 100px;
+    width: 100px;
+    background-color: #433737;
+    display: inline-block;
+    border: 2px solid black;
+}
+#grey{
+    background-color: grey;
+}
+#yellow{
+    background-color: yellow;
+}
+#white{
+    background-color: White;
+}
+#blue{
+    background-color: blue;
+}
